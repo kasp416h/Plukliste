@@ -10,8 +10,8 @@ public class Pluklist
 
 public class Item
 {
-    public string ProductID;
-    public string Title;
+    public string? ProductID;
+    public string? Title;
     public ItemType Type;
     public int Amount;
 }
